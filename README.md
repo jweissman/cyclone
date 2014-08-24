@@ -6,7 +6,7 @@
 
 ## Description
 
-TODO: Description
+Currently just a sandbox for different little functional things in Ruby.
 
 ## Features
 
@@ -23,7 +23,7 @@ TODO: Description
 ## Synopsis
 
     $ cyclone
-
+    
 ## Copyright
 
 Copyright (c) 2014 Joseph Weissman

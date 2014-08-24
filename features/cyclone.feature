@@ -1,1 +1,1 @@
-Feature: Blah blah blah
+Feature: models a complex interactive process  As a systems analyst  I want to organize a simulation of complex interactive processes  In order to gain better understanding of their behavior  Scenario: sequential communicating processes    # ...

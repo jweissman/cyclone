@@ -1,0 +1,3 @@
+puts "="*80 + "     CYCLONE SPECS"
+8.times { puts "\n" }
+exec "bundle exec rake spec cucumber"
